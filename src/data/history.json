@@ -1,0 +1,18 @@
+[
+  {
+    "title": "C (Advanced)",
+    "imageSrc": "history/c.png"
+  },
+  {
+    "title": "C++ (Advanced)",
+    "imageSrc": "history/cpp.png"
+  },
+  {
+    "title": "Java (Intermediate)",
+    "imageSrc": "history/java.png"
+  },
+  {
+    "title": "Python (Basic)",
+    "imageSrc": "history/python.png"
+  }
+]

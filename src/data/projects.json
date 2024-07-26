@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Harmonique",
+    "imageSrc": "projects/harmonique.png",
+    "description": "This project focuses on delivering music.",
+    "skills": ["HTML", "CSS", "JS", "PHP", "SQL"],
+    "source": "https://github.com/sanyashree/HARMONIQUE.git"
+  },
+  {
+    "title": "Weather Website",
+    "imageSrc": "projects/weather.png",
+    "description": "This is made to learn the concepts of API.",
+    "skills": ["HTML", "CSS", "JS", "API"],
+    "source": "https://github.com/sanyashree/weather.git"
+  },
+  {
+    "title": "Sorting Algorithms",
+    "imageSrc": "projects/sorting.png",
+    "description": "This focuses on the sorting of data via different algos.",
+    "skills": ["Python", "Pygame", "OOPs"],
+    "source": "https://github.com/sanyashree/Sorting_Algorithms.git"
+  }
+]
